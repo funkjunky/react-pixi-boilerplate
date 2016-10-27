@@ -32,6 +32,12 @@
     "url": "https://github.com/gaearon/react-transform-boilerplate/issues"
   },
   "homepage": "https://github.com/gaearon/react-transform-boilerplate",
+  "dependencies": {
+    "pixi.js": "^4.0.3",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-pixi": "^0.9.0"
+  },
   "devDependencies": {
     "babel-core": "^5.4.7",
     "babel-eslint": "^3.1.9",
@@ -52,11 +58,5 @@
     "webpack": "^1.9.6",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.0.0"
-  },
-  "dependencies": {
-    "pixi.js": "^3.0.8",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "react-pixi": "^0.7.4"
   }
 }
